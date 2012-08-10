@@ -1,7 +1,11 @@
 <resources>
 
     <string name="app_name">Android-dpi-layout-example</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_ldpi">Hello low DPI!</string>
+    <string name="hello_mdpi">Hello medium DPI!</string>
+    <string name="hello_hdpi">Hello high DPI!</string>
+    <string name="hello_xhdpi">Hello extra high DPI!</string>
+    <string name="hello_default">Hello default DPI!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
 
