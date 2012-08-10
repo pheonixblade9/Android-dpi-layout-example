@@ -8,5 +8,6 @@
     <string name="hello_default">Hello default DPI!</string>
     <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
-
+	<string name="common_stub">This part is shown the same on every screen type</string>
+    
 </resources>
